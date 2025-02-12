@@ -16,15 +16,9 @@ Repositório com propósito de prática e técnicas de Engenharia de LLM
 
 O que foi feito:
 
-1.
-Otimização do tempo de execução: Ajuste do batch_size para 64, reduzindo o tempo por época.
-2.
-Melhoria do tokenizador: Removido pontuações para melhor processamento do texto.
-3.
-Ajuste do Learning Rate: Ajuste do LR de 0.01 para 0.05 e Adicionado momentum=0.9 para um treinamento mais eficiente.
-4.
-Correção da Loss: A loss agora é corretamente impressa no treinamento e validação.
-5.
-Inclusão do laço de validação: Implementada divisão 85% treino / 15% validação.
-6.
-Melhoria da acurácia: A inclusão de ReLU na primeira camada melhora o desempenho.
+1.Otimização do tempo de execução: Ajuste do batch_size para 64, reduzindo o tempo por época.
+2.Melhoria do tokenizador: Removido pontuações para melhor processamento do texto.
+3.Ajuste do Learning Rate: Ajuste do LR de 0.01 para 0.05 e Adicionado momentum=0.9 para um treinamento mais eficiente.
+4.Correção da Loss: A loss agora é corretamente impressa no treinamento e validação.
+5.Inclusão do laço de validação: Implementada divisão 85% treino / 15% validação.
+6.Melhoria da acurácia: A inclusão de ReLU na primeira camada melhora o desempenho.
