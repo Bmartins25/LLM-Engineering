@@ -1,7 +1,8 @@
 # LLM-Engineering
-Repositório com propósito de prática de técnicas de Engenharia de LLM
-Teste: NeuralMind
-Apoio: LLM GPT
+
+* Repositório com propósito de prática de técnicas de Engenharia de LLM
+* Empresa: NeuralMind
+* Apoio: LLM GPT
 
 ---
 
