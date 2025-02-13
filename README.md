@@ -29,6 +29,7 @@ O que foi feito:
 
   ---
 
-* Tempo de performance: 30 minutos
+* Tempo de performance: 10 minutos
+* Resultado final: 53% de acurácia
 
-![image](https://github.com/user-attachments/assets/259dede3-4c3d-4b39-860d-bd99587a276e)
+
