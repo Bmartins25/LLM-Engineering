@@ -1,8 +1,11 @@
 # LLM-Engineering
-Repositório com propósito de prática e técnicas de Engenharia de LLM
+Repositório com propósito de prática de técnicas de Engenharia de LLM
+Teste: NeuralMind
+Apoio: LLM GPT
 
 ---
 
+O que fazer:
 
 * Execute em 1 a 2 segundos por época com GPU T4 ou 15 segundos por época em CPU.
 * Tenha um melhor tokenizador.
