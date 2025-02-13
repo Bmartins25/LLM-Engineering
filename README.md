@@ -27,4 +27,6 @@ O que foi feito:
 * Inclusão do laço de validação: Implementada divisão 85% treino / 15% validação.
 * Melhoria da acurácia: A inclusão de ReLU na primeira camada melhora o desempenho.
 
+* Tempo de performance: 30 minutos
+
 ![image](https://github.com/user-attachments/assets/259dede3-4c3d-4b39-860d-bd99587a276e)
