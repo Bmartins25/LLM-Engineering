@@ -2,7 +2,7 @@
 
 * Repositório com propósito de prática de técnicas de Engenharia de LLM
 * Empresa: NeuralMind
-* Apoio: LLM GPT
+* Apoio: LLM OpenIA (ChatGPT)
 
 ---
 
